@@ -1,12 +1,30 @@
-## Hi there 👋
+<div dir="rtl">
 
-<!--
+  <h3>مَا هُوَ غَيْثْ</h3>
 
-**Here are some ideas to get you started:**
+  غَيْثْ هُوَ حَاضِنَةٌ إِلِكْتِرُونِيةٌ تَجَمعَ عِدةَ مَشَارِيعَ رَقْمِيةٍ عَلَى شَكْلِ مَجْمُوعَةٍ مِنْ اَلْمَوَاقِعِ اَلتِي يَكُونُ اَلْغَرَضُ مِنْهَا تَطْبِيقِ مَشَارِيعَ وَزِيَادَة
+  اَلإِْنْتَاجِيةِ اَلذاتِيةِ ، مَعَ تَحْدِيدِ مَجَالِ إِنْشَاءِ هَذِهِ اَلْمَشَارِيعِ لِتَكُونَ مُسَاهَمَةً تَمَامًا لأَِغْرَاضٍ دِينِيةٍ تَخْدِمُ اَلإِْسْلاَمَ وَالْقُرْآنَ وَالسنةِ
+  دِفَاعًا أَوْ طَلَبًا لِلْعِلْمِ وَالْمُطَالَعَةِ
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+  <h3>لِمَاذَا غَيْثْ</h3>
+
+  إِن هِوَايَتِي هَِي اَلْبَرْمَجَةُ، وَتََعلمُ اَلْبَرْمَجَةِ يَحْتَاجُ إِلَى وَقْتٍ وَكَذَلِكَ إِلَى اَلتطْبِيقِ ، وَيَْعنِي بِالتطْبِيقِ تَنْفِيذَ مَشَارِيعِ اَلْقَصْدِ مِنْهَا تَطْوِيرٍ
+  مَا قَدْ تََعلمَتْهُ ، وَلإِنْشَاءَ تَطْبِيقَاتٍ فَإِننِي بِحَاجَةِ إِلَى اَلأَْفْكَارِ
+  لِذَلِكَ قَدْ اِخْتَرْتُ اَلإِْسْلاَمُ لِيُكَونَ وَاجِهَتَْي فِي تَنْفِيذِ مَشَارِيعَ مُخْتَلِفَةٍ تَخْدِمُهُ لتكُونَ هُنَاكَ فَائِدَتَيْنِ:
+  تَطْوِيرٌ نَفْسِي ثُم اِتجَاهٍ سَلِيمٍ لِتَطْبِيقَاتِي
+
+  <h3>التقنيات المستعملة</h3>
+
+  يتم بناء هذا المشروع عن طريق التقنيات الاساسية للويب :  **Html & Css & JavaScript**
+
+  يليه تقنيات اخرى مثل:
+
+  <div ="ltr">
+  
+    * Nuxt.Js
+    * Nuxt Content
+    * Tailwind Css 
+    
+  </div>
+ 
+</div>
